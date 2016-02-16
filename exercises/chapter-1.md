@@ -45,6 +45,7 @@ text2[-2:]
 [word for word in text6 if 'z' in word]
 [word for word in text6 if 'pt' in word]
 [word for word in text6 if word.isalpha() and word == word.capitalize()]
+```
 
 25)
 ```
