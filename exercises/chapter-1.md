@@ -61,7 +61,7 @@ Brings the count of letters plus punctuation in a text. We can't use it to work 
 27)
 ```
 >>> def vocab_size(text):
-...   return len(set(text))
+...   return len(set([w for w in text if w.isalpha()]))
 ```
 
 28)
