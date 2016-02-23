@@ -18,4 +18,5 @@ If you need to draw dispersion plots, use `vagrant ssh -- -X` to forward the x s
 
 ### Exercise index
 
-[Chapter 1](/exercises/chapter-1.md)
+1. [Chapter 1](/exercises/chapter-1.md)
+1. [Chapter 2](/exercises/chapter-2.md)
